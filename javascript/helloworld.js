@@ -1,1 +1,1 @@
-// write your code here
+Console.log("Hello, World");
